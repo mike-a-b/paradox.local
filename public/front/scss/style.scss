@@ -1,0 +1,38 @@
+@import "../fonts/_fonts";
+@import "_mixin";
+
+$max-width: 1255;
+$white: #fff;
+$space-white: #92A7B4;
+$space: #424242;
+$space-w: #95A0B5;
+$space-b: #F5F7FB;
+$space-f: #CFDAE8;
+$caral: #FF4A4A;
+$green: #3ABA6E;
+$blue: #2A63ED;
+$black: #000;
+
+._conteiner {
+   width: 100%;
+   max-width: $max-width + px;
+   padding: 0 30px;
+   margin: 0 auto;
+}
+
+body {
+   position: relative;
+   line-height: calc(29/20 * 100%);
+   font-size: fontSize(29, 21);
+   color: $black;
+   font-weight: lighter;
+   font-family: 'FuturaNewBook-Reg', sans-serif;
+}
+
+a{
+   color: $white;
+}
+
+@import "_header";
+@import "_main";
+@import "_footer";

@@ -1,0 +1,32 @@
+{
+    "sell_buy_box": 
+    {
+        "Buy": "Купить",
+        "BUY": "КУПИТЬ",
+        "Sell": "Продать",
+        "SELL": "ПРОДАТЬ",
+        "Receive": "Получаете",
+        "Commission": "Комиссия",
+        "Spend": "Потратить",
+        "Pay_with": "Заплатить с",
+        "Balance": "Баланс",
+        "invalidBalance": "Недостаточный баланс"
+    },
+    "user_ava_upload": 
+    {
+        "Upload": "Загрузить",
+        "Clear": "Очистить"
+    },		
+    "user_history": 
+    {
+        "History": "История",
+        "Percentage": "Проценты",
+        "Update": "Обновление",
+        "Commission": "Комиссия",
+        "Buy": "Покупка",
+        "Sell": "Продажа",
+        "Deposit_USDT": "Депозит USDT",
+        "Withdraw_USDT": "Вывод USDT",
+        "More_transactions": "Больше транзакций"       
+    } 
+}

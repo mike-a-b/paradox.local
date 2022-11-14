@@ -1,0 +1,129 @@
+{
+    "Overview": "Обзор",
+    "History": "История",
+    "Invest": "Инвестиции",
+    "Settings": "Настройки",
+    "Logout": "Выход",
+    "Yield dynamics": "Динамика доходности",
+    "Portfolio": "Портфолио",
+    "My crypto Pools": "Мои Крипто Активы",
+    "Deposits": "Мои депозиты",
+    "My pools": "Мои пулы",
+    "My assets": "Мои ассеты",
+    "Balance": "Баланс",
+    "Pool": "Пул",
+    "POOL": "ПУЛ",
+    "PRICE": "ЦЕНА",
+    "AMOUNT": "КОЛИЧЕСТВО",
+    "BALANCE": "БАЛАНС",
+    "MONTH": "МЕСЯЦ",
+    "TOTAL": "ВСЕГО",
+    "Show all pools": "Показать все пулы",
+    "Day": "День",
+    "Weak": "Неделя",
+    "Month": "Месяц",
+    "Months": "Месяца",
+    "All time": "Все время",
+
+    "Percentage": "Проценты",
+    "Update": "Обновление",
+    "Commission": "Комиссия",
+    "Buy": "Покупка",
+    "Sell": "Продажа",
+    "More transactions": "Больше транзакций",
+    
+    "See all": "Показать все",
+
+    "Back": "Назад",
+    "started from": "начало с",
+    "at": "в",
+    "to": "до",
+    "Stats": "Статистика",
+    "About": "Про",
+    "Underlying Tokens": "Имеющиеся токены",
+    "Date": "Дата",
+    "Asset": "Ассеты",
+    "Quantity": "Количество",
+    "Price": "Цена",
+    "Price change 24h": "Цена за 24ч",
+    "Allocation": "Выделено",
+    "Share": "Доля",
+    "Update every": "Обновление каждые",
+    "Update at": "Обновление в",
+    "next": "следующее",
+    "day": "день",
+
+    "Email": "Email",
+    "Password": "Пароль",
+    "Name": "Имя",
+    "Second Name": "Фамилия",
+    "Phone": "Телефон",
+    "Telegram": "Telegram",
+    "Save": "Сохранить",
+
+    "January": "Январь",
+    "February": "Февраль",
+    "March": "Март",
+    "April": "Апрель",
+    "May": "Май",
+    "June": "Июнь",
+    "July": "Июль",
+    "August": "Август",
+    "October": "Октябрь",
+    "November": "Ноябрь",
+    "December": "Декабрь",
+
+    "langs":[
+        {
+            "name":"Русский","symbol":"ru", "flag":"/front/img/icon/language-russian.png"
+        },
+        {
+            "name":"English","symbol":"en", "flag":"/front/img/icon/language-american.png"
+        },
+        {
+            "name":"Español","symbol":"es", "flag":"/front/img/icon/language-spain.png"
+        }
+    ],
+
+    "login":"Вход",
+    "account":"Аккаунт",
+    "content__description":"<h1>Инвестируйте <br> в весь крипто-рынок сразу, а не в конкретную криптовалюту</h1> <h2>Платформа для покупки и продажи <br> индексных фондов с различной доходностью <br> истепеньюриска</h2>",
+    "btn_auth__user":"Регистрация",
+    "btn_view_demo":"Посмотреть демо",
+
+    "main__content_desc_h2":"Что такое индексный токен?",
+    "main__content_desc_h3":" Индексные токены включает в себя множество <br> различных криптовалют. Это дает возможность получать доходность с каждого актива в портфеле<br> с меньшим риском, чем если бы вы покупали активы по отдельности.",
+
+    "main__content_1_desc_h2":"Покупая индексный токен - вы покупаете весь криптовалютный рынок целиком",
+    "main__content_1_desc_h3":"Покупая 1 индексный токен – вы покупаете множество <br> самых успешных криптовалют. Индексы составляются <br> автоматически на основе рейтинга капитализации <br> криптовалют на сайте <a href='coinmarketcap.com' alt='coinmarketcap.com'>coinmarketcap.com</a>.",
+
+    "main__content_2_desc_h2":"Индекс обновляется в среднем каждые 14 дней – без каких-либо усилий с вашей стороны.",
+    "main__content_2_desc_h3":" Каждые 14 дней все активы, которые падают в цене выходят из индекса, а которые растут попадают. Каждый месяц в нем только самые потенциально успешные криптовалюты.",
+
+    "main__content_description__form":" Зарегистрируйтесь сейчас, <br> чтобы получить доступ",
+    "main__content_name__form":"Ваше имя",
+    "main__content_email__form":"E-mail",
+    "main__content_password__form":"Укажите пароль",
+    "main__content_confirm_password__form":"Укажите подтверждение пароля",
+    "main__content_btn__form":"Регистрация",
+
+    "main__content_privacy_policy":"Политика конфиденциальности",
+    "main__content_rules_use":"Правила использования",
+
+    "register__form_name":"Ваше имя",
+    "register__form_email":"E-mail",
+    "register__form_password":"Пароль",
+    "register__form_confirm_password":"Подтверждение пароля",
+    "register__form_btn":"Регистрация",
+
+    "email_verify_desc":"Ждем подтверждения аккаунта, проверьте ваш емайл.",
+    "email_resend_desc":"На ваш адрес электронной почты отправлена новая ссылка для подтверждения.",
+    "email_verify_btn_resend":"Отправить повторно",
+
+    "Verify Email Address": "Подтвердите адрес электронной почты",
+    "Please click the button below to verify your email address.": "Пожалуйста, нажмите кнопку ниже, чтобы подтвердить свой адрес электронной почты.",
+    "If you did not create an account, no further action is required.": "Если вы не создавали учетную запись, никаких дальнейших действий не требуется."
+
+
+
+}

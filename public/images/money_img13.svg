@@ -1,0 +1,16 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
+<ellipse cx="12" cy="12" rx="12" ry="12" fill="#F7931A"/>
+</mask>
+<g mask="url(#mask0)">
+<rect x="-5.02251" y="-0.0714118" width="34.0476" height="24.1429" rx="2.16667" fill="white" stroke="#F5F5F5" stroke-width="0.619048"/>
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="-6" y="-1" width="36" height="26">
+<rect x="-5.02251" y="-0.0714118" width="34.0476" height="24.1429" rx="2.16667" fill="white" stroke="white" stroke-width="0.619048"/>
+</mask>
+<g mask="url(#mask1)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M-5.33203 16.1272H29.3346V7.87326H-5.33203V16.1272Z" fill="#0C47B7"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M-5.33203 24.381H29.3346V16.127H-5.33203V24.381Z" fill="#E53B35"/>
+</g>
+<circle cx="12" cy="12" r="11.5" stroke="#E8E8E9"/>
+</g>
+</svg>

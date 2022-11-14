@@ -1,0 +1,80 @@
+// MAIN
+
+.form {
+   width: 100%;
+   max-width: 393px;
+   .auth__user{
+      width: 100%;
+      color: $white;
+      padding: 18px 40px;
+   }
+
+}
+.description__form{
+   h2{
+      margin-bottom: 50px;
+      line-height: calc(45/40 * 100%);
+      font-size: fontSize(45, 26);
+      font-family: 'FuturaNewMedium-Reg', sans-serif;
+   }
+}
+.group {
+   position: relative;
+   margin-bottom: 19px;
+   border-radius: 55px;
+   background-color: $space-b;
+   padding: 18px 20px;
+   img{
+      position: absolute;
+      right: 20px;
+      top: 50%;
+      transform: translateY(-50%);
+   }
+ }
+ .group:nth-child(1){
+   img{
+      width: 20px;
+      right: 18px;
+   }
+}
+ .group:nth-child(2){
+   img{
+      width: 16px;
+   }
+ }
+ .group:nth-child(3){
+   img{
+      width: 14px;
+   }
+ }
+ input {
+   font-size: 16px;
+   display: block;
+   width: 100%;
+   max-width: 323px;
+   background-color: $space-b;
+ }
+ input:focus {
+   outline: none;
+ }
+
+ label {
+   color: $space-w;
+   font-size: 16px;
+   position: absolute;
+   pointer-events: none;
+   left: 22px;
+   top: 9px;
+   transition: 0.2s ease all;
+   -moz-transition: 0.2s ease all;
+   -webkit-transition: 0.2s ease all;
+ }
+ 
+ /* active state */
+ input:focus ~ label, input:valid ~ label {
+   top: -9px;
+   font-size: 14px;
+ }
+ 
+ 
+// =======================

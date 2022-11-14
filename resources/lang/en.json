@@ -1,0 +1,54 @@
+{
+    "langs":[
+        {
+            "name":"Русский","symbol":"ru", "flag":"/front/img/icon/language-russian.png"
+        },
+        {
+            "name":"English","symbol":"en", "flag":"/front/img/icon/language-american.png"
+        },
+        {
+            "name":"Español","symbol":"es", "flag":"/front/img/icon/language-spain.png"
+        }
+    ],
+    "login":"Log in",
+    "account":"Account",
+    "content__description":"<h1>Invest <br>in the whole crypto market at a time rather than a certain cryptocurrency.</h1> <h2>A platform for the purchase and sale <br> of index tokens with various yields and <br> risk levels.</h2>",
+    "btn_auth__user":"Registration",
+    "btn_view_demo":"View Demo",
+
+    "main__content_desc_h2":"What is an index token?",
+    "main__content_desc_h3":"Index tokens comprise many various cryptocurrencies. This makes it easy to get a yield on each asset in a portfolio with less risk than if you were to buy the assets separately.",
+
+    "main__content_1_desc_h2":"When you buy an index token, you are buying the entire cryptocurrency market.",
+    "main__content_1_desc_h3":"Buying 1 index token - you are buying many of the most prosperous cryptocurrencies. Indexes are created automatically based on cryptocurrency capitalization rating at coinmarketcap.com",
+
+    "main__content_2_desc_h2":"The index token is automatically updated once every 14 days.",
+    "main__content_2_desc_h3":"Each 14 days, all assets that fall in value are dropped from the index and those that rise are added to it. As a consequence, only the most prosperous cryptocurrencies are always in the index token.",
+
+    "main__content_description__form":"Register now to get access.",
+    "main__content_name__form":"Login ( Name )",
+    "main__content_email__form":"E-mail",
+    "main__content_password__form":"Password",
+    "main__content_confirm_password__form":"Repeat password",
+
+    "main__content_btn__form":"Registration",
+
+    "main__content_privacy_policy":"Privacy Policy",
+    "main__content_rules_use":"Rules of Use",
+
+    "register__form_name":"Login ( Name )",
+    "register__form_email":"E-mail",
+    "register__form_password":"Password",
+    "register__form_confirm_password":"Repeat password",
+    "register__form_btn":"Registration",
+
+    "email_verify_desc":"Waiting for account confirmation, check your email.",
+    "email_resend_desc":"A fresh verification link has been sent to your email address.",
+    "email_verify_btn_resend":"Click here to request another",
+
+    "Verify Email Address": "Verify Email Address",
+    "Please click the button below to verify your email address.": "Please click the button below to verify your email address.",
+    "If you did not create an account, no further action is required.": "If you did not create an account, no further action is required."
+	
+	
+}

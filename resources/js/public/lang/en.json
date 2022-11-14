@@ -1,0 +1,32 @@
+{
+    "sell_buy_box": 
+    {
+        "Buy": "Buy",
+        "BUY": "BUY",
+        "Sell": "Sell",
+        "SELL": "SELL",
+        "Receive": "Receive",
+        "Commission": "Commission",
+        "Spend": "Spend",
+        "Pay_with": "Pay with",
+        "Balance": "Balance",
+        "invalidBalance": "Insufficient balance"
+    },
+    "user_ava_upload": 
+    {
+        "Upload": "Upload",
+        "Clear": "Clear"        
+    },         		
+    "user_history": 
+    {
+        "History": "History",
+        "Percentage": "Percentage",
+        "Update": "Update",
+        "Commission": "Commission",
+        "Buy": "Buy",
+        "Sell": "Sell",
+        "Deposit_USDT": "Deposit USDT",
+        "Withdraw_USDT": "Withdraw USDT",
+        "More_transactions": "More transactions"       
+    }          		
+}

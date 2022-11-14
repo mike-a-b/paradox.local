@@ -1,0 +1,11 @@
+$v-min: 360;
+$v-max: 1920;
+
+@function fontSize($f-max, $f-min) {
+   $k: ($f-max - $f-min)/ ($v-max - $v-min);
+   $b: $f-min - $k * $v-min;
+
+   $b: $b * 1px;
+
+   @return calc(#{$k} * 100vw + #{$b});
+}

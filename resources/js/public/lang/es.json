@@ -1,0 +1,32 @@
+{
+    "sell_buy_box":
+    {
+        "Buy": "Comprar",
+        "BUY": "COMPRAR",
+        "Sell": "Vender",
+        "SELL": "VENDER",
+        "Receive": "Recibir",
+        "Commission": "Comisión",
+        "Spend": "Pasar",
+        "Pay_with": "Paga con",
+        "Balance": "Equilibrio",
+        "invalidBalance": "Equilibrio insuficiente"
+    },
+    "user_ava_upload":
+    {
+        "Upload": "Subir",
+        "Clear": "Claro"
+    },
+    "user_history":
+    {
+        "History": "Historia",
+        "Percentage": "Porcentaje",
+        "Update": "Actualizar",
+        "Commission": "Comisión",
+        "Buy": "Comprar",
+        "Sell": "Vender",
+        "Deposit_USDT": "Deposite USDT",
+        "Withdraw_USDT": "Retirar USDT",
+        "More_transactions": "Más transacciones"
+    }
+}
